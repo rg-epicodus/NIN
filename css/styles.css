@@ -1,6 +1,9 @@
 .sidebar {
 float: right;
-background-color: gray;
+margin: 12px;
+border: 2px solid black;
+padding: 4px;
+background-color: orange;
 }
 
 .column {
@@ -10,6 +13,9 @@ float: left;
 
 img {
   float: right;
+  margin: 12px;
+  border: 2px solid black;
+  padding: 4px;
 }
 
 .right {
